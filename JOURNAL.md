@@ -26,3 +26,10 @@ schematic drew!!!!
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMzNywicHVyIjoiYmxvYl9pZCJ9fQ==--e30be794a9fb22d09bc65765435d0bb85036ec9c/image.png)
   
 
+## 11/8/2025 2 AM - pcb routing is done  
+
+pcb routing is done, very neat, very organized. next is to do cad, i have some transparent filament so hopefully that works out hehe asdasddfugdfereaas
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--51234c51833bffeae16d4d85c04e846704b9c745/image.png)
+  
+
