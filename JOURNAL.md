@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 11/8/2025 - shopping  
+## 11/8/2025 12:20 AM - shopping  
 
 went shopping on lcsc, and aliexpress
 
@@ -14,5 +14,15 @@ lcsc smh too expensive with the shipping and miscellanous other fees, also doesn
 
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--a782584631e1c4464fa920acda6ed6eb98c192d2/image.png)
+  
+
+## 11/8/2025 12:21 AM - drawing schematic  
+
+schematic drew!!!!
+
+2 sheets, one for main logic, other one for neopixels. its pretty simple imo, hopefully the pcb will be as easy to route asdnskdfhksjdf
+
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTMzNywicHVyIjoiYmxvYl9pZCJ9fQ==--e30be794a9fb22d09bc65765435d0bb85036ec9c/image.png)
   
 
