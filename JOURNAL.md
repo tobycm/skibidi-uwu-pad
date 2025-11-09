@@ -40,7 +40,7 @@ tidied up the readme and tried out zmk config. trying to learn how zmk works. ht
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--287f47de30e1a7d876f7730c780cb5a6ecc1b996/image.png)
   
 
-## 11/9/2025 - added pcb art and power saving mechanism  
+## 11/9/2025 1 AM - added pcb art and power saving mechanism  
 
 added lots of pcb art, infos, etc. added power saving mechanism, to cut power to neopixels and sensors when not actively in use. saves battery like 104060 li ion
 
@@ -48,4 +48,21 @@ added lots of pcb art, infos, etc. added power saving mechanism, to cut power to
 
 
   
+
+## 11/9/2025 1 PM - cad the case  
+
+its just so peak....
+
+![Screenshot from 2025-11-09 12-45-15](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--8ce5d573b90cc4ef34dd60fd86d267bb8c264b3e/Screenshot%20from%202025-11-09%2012-45-15.png)
+
+
+so so peak.......
+
+![Screenshot from 2025-11-09 12-47-24](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--217564d3f4208402f332073f5a6fd704c514d890/Screenshot%20from%202025-11-09%2012-47-24.png)
+
+tooooo peakkkk...........
+
+
+![Screenshot from 2025-11-09 13-01-57](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTg3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--ddfc055eb1385d56a791496dc44682c258d6f1b0/Screenshot%20from%202025-11-09%2013-01-57.png)
+........................................................................................  
 
