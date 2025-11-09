@@ -18,6 +18,10 @@ me when i osu
 
 ![overview](./assets/overview.png)
 
+![assembly overview](./assets/assembly_overview.png)
+
+![assembly side](./assets/assembly_side.png)
+
 ![front](./assets/front.png)
 
 ![back](./assets/back.png)
