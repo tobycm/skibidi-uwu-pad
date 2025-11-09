@@ -40,3 +40,12 @@ tidied up the readme and tried out zmk config. trying to learn how zmk works. ht
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTM2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--287f47de30e1a7d876f7730c780cb5a6ecc1b996/image.png)
   
 
+## 11/9/2025 - added pcb art and power saving mechanism  
+
+added lots of pcb art, infos, etc. added power saving mechanism, to cut power to neopixels and sensors when not actively in use. saves battery like 104060 li ion
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTcwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--9eec25f32647c1d1bef49138c786feb4c47010f5/image.png)
+
+
+  
+
