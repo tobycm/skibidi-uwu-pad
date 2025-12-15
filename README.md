@@ -25,3 +25,7 @@ me when i osu
 ![front](./assets/front.png)
 
 ![back](./assets/back.png)
+
+## schematic
+
+![schematic](./assets/schematic.png)

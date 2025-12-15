@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "74638292-9b5b-4c3d-b26e-a36af6f81a6f")
 	(paper "A4")
+	(title_block
+		(title "skibidi-uwu-pad")
+		(date "2025-12-14")
+		(rev "v3")
+		(company "Toby Cm's Lab")
+	)
 	(lib_symbols
 		(symbol "74AXP2T45DCH:74AXP2T45DCH"
 			(pin_names
